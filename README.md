@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KubanychAsanov
-- 👀 I’m interested in Flutter development
+- 👀 I’m interested in Flutter&Software development
 
 <!---
 KubanychAsanov/KubanychAsanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
